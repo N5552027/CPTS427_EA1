@@ -14,6 +14,7 @@ During the Hackathon, I helped with the creation of the AI model with Calvin Tal
 At the end of the event, I believe that we had a good working product albeit we did not have the time to introduce the facial recognition AI model to the applicaiton due to Python version incompatibility issues. At the end of the hackathon, a lot of us agreed that we could have had a more fleshed out application and hardware appliance if more time was provided for the hackathon. I believe that we would have still approached the theme of the hackathon (Reinventing the Wheel) with the same product, however, we would likely change the order of how we approached the tasks to make our Ring Doorbell Camera. 
 
 # Notes and Links
-When I did bug-testing with Owen and Jamieson, I often found the bug on my computer and pointed out the issues to fix on their computer. This was to minimize the amount of merge conflicts and interferences while developing both the AI models and the web application. 
+When I did bug-testing with Owen and Jamieson, I often found the bug on my computer and pointed out the issues to fix on their computer. This was to minimize the amount of merge conflicts and interferences while developing both the AI models and the web application. Also, all of the code used for the application cannot be uploaded to this repository, the AI models are too big and there's a lot of dependencies. Please see the GitHub Repo and Devpost Linked below. 
 
 [Devpost link](https://devpost.com/software/ring-sgtkoh)
+[GitHub link](https://github.com/Tallented-Code-bot/CrimsonCode-2026/tree/main)
